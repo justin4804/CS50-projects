@@ -1,1 +1,3 @@
 # justin4804
+This repository is created by me to keep my CS50 projects.
+These might be useful to you if you're stuck in a problem set and want some hints...
